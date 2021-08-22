@@ -12,7 +12,8 @@ public class Greeting {
         return HELLO + " " + WORLD;
     }
 
-    public String helloWorld(String name){
+    public String helloWorld(String name) {
         return HELLO + " " + name;
     }
+
 }
